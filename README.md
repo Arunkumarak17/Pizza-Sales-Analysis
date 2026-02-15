@@ -1,5 +1,6 @@
-🍕 Pizza Sales Analysis – SQL & Power BI Project
-📌 Project Overview
+#Pizza Sales Analysis – SQL & Power BI Project
+
+##Project Overview
 
 This project analyzes pizza sales data to generate meaningful business insights using SQL and Power BI. The goal is to evaluate sales performance, identify top-selling products, and understand customer ordering patterns.
 
@@ -60,3 +61,6 @@ Data Modeling
 DAX Calculations
 
 Business Intelligence Reporting
+
+![Uploading Home Dashboard.png…]()
+
