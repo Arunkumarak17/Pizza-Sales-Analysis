@@ -8,59 +8,59 @@ SQL was used for data cleaning, transformation, and KPI calculations. The proces
 
 **Objectives**
 
-Analyze total revenue and total orders
+1. Analyze total revenue and total orders
 
-Identify top and bottom performing pizzas
+2. Identify top and bottom performing pizzas
 
-Evaluate sales by category and size
+3. Evaluate sales by category and size
 
-Analyze daily and monthly sales trends
+4. Analyze daily and monthly sales trends
 
-Determine peak order hours
+5. Determine peak order hours
 
 **Tools & Technologies**
 
-SQL Server (Data extraction & analysis)
+1. SQL Server (Data extraction & analysis)
 
-Power BI (Dashboard & visualization)
+2. Power BI (Dashboard & visualization)
 
-Excel (Data preprocessing)
+3. Excel (Data preprocessing)
 
 **Key KPIs**
 
-Total Revenue
+1. Total Revenue
 
-Total Orders
+2. Total Orders
 
-Average Order Value
+3. Average Order Value
 
-Total Pizzas Sold
+4. Total Pizzas Sold
 
-Sales by Category
+5. Sales by Category
 
-Sales by Size
+6. Sales by Size
 
 **Dashboard Features**
 
-Revenue and order trend analysis
+1. Revenue and order trend analysis
 
-Best and worst-selling pizzas
+2. Best and worst-selling pizzas
 
-Category-wise and size-wise performance
+3. Category-wise and size-wise performance
 
-Time-based sales insights
+4. Time-based sales insights
 
 **Skills Demonstrated**
 
-SQL querying (JOIN, GROUP BY, Aggregate Functions)
+1. SQL querying (JOIN, GROUP BY, Aggregate Functions)
 
-Data Cleaning & Transformation
+2. Data Cleaning & Transformation
 
-Data Modeling
+3. Data Modeling
 
-DAX Calculations
+4. DAX Calculations
 
-Business Intelligence Reporting
+5. Business Intelligence Reporting
 
 ![Uploading Home Dashboard.png…]()
 
